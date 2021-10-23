@@ -11,7 +11,7 @@
 		FF27CC892724301900872B25 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FF27CC882724301900872B25 /* Assets.xcassets */; };
 		FF27CC902724301900872B25 /* WatchAnimations WatchKit Extension.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = FF27CC8F2724301900872B25 /* WatchAnimations WatchKit Extension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
 		FF27CC952724301900872B25 /* WatchAnimationsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF27CC942724301900872B25 /* WatchAnimationsApp.swift */; };
-		FF27CC972724301900872B25 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF27CC962724301900872B25 /* ContentView.swift */; };
+		FF27CC972724301900872B25 /* RectanglePyramids.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF27CC962724301900872B25 /* RectanglePyramids.swift */; };
 		FF27CC992724301900872B25 /* NotificationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF27CC982724301900872B25 /* NotificationController.swift */; };
 		FF27CC9B2724301900872B25 /* NotificationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF27CC9A2724301900872B25 /* NotificationView.swift */; };
 		FF27CC9D2724301900872B25 /* ComplicationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF27CC9C2724301900872B25 /* ComplicationController.swift */; };
@@ -68,7 +68,7 @@
 		FF27CC8A2724301900872B25 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FF27CC8F2724301900872B25 /* WatchAnimations WatchKit Extension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "WatchAnimations WatchKit Extension.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
 		FF27CC942724301900872B25 /* WatchAnimationsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WatchAnimationsApp.swift; sourceTree = "<group>"; };
-		FF27CC962724301900872B25 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		FF27CC962724301900872B25 /* RectanglePyramids.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RectanglePyramids.swift; sourceTree = "<group>"; };
 		FF27CC982724301900872B25 /* NotificationController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationController.swift; sourceTree = "<group>"; };
 		FF27CC9A2724301900872B25 /* NotificationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationView.swift; sourceTree = "<group>"; };
 		FF27CC9C2724301900872B25 /* ComplicationController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ComplicationController.swift; sourceTree = "<group>"; };
@@ -121,7 +121,7 @@
 			isa = PBXGroup;
 			children = (
 				FF27CC942724301900872B25 /* WatchAnimationsApp.swift */,
-				FF27CC962724301900872B25 /* ContentView.swift */,
+				FF27CC962724301900872B25 /* RectanglePyramids.swift */,
 				FF27CC982724301900872B25 /* NotificationController.swift */,
 				FF27CC9A2724301900872B25 /* NotificationView.swift */,
 				FF27CC9C2724301900872B25 /* ComplicationController.swift */,
@@ -268,7 +268,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FF27CC992724301900872B25 /* NotificationController.swift in Sources */,
-				FF27CC972724301900872B25 /* ContentView.swift in Sources */,
+				FF27CC972724301900872B25 /* RectanglePyramids.swift in Sources */,
 				FF27CC9D2724301900872B25 /* ComplicationController.swift in Sources */,
 				FF27CC952724301900872B25 /* WatchAnimationsApp.swift in Sources */,
 				FF27CC9B2724301900872B25 /* NotificationView.swift in Sources */,
