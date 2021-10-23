@@ -17,6 +17,7 @@
 		FF27CC9D2724301900872B25 /* ComplicationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF27CC9C2724301900872B25 /* ComplicationController.swift */; };
 		FF27CC9F2724301A00872B25 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FF27CC9E2724301A00872B25 /* Assets.xcassets */; };
 		FF27CCA22724301A00872B25 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FF27CCA12724301A00872B25 /* Preview Assets.xcassets */; };
+		FF27CCB3272477AC00872B25 /* CubeImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF27CCB2272477AC00872B25 /* CubeImage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -76,6 +77,7 @@
 		FF27CCA12724301A00872B25 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		FF27CCA32724301A00872B25 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FF27CCA42724301A00872B25 /* PushNotificationPayload.apns */ = {isa = PBXFileReference; lastKnownFileType = text; path = PushNotificationPayload.apns; sourceTree = "<group>"; };
+		FF27CCB2272477AC00872B25 /* CubeImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CubeImage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -122,6 +124,7 @@
 			children = (
 				FF27CC942724301900872B25 /* WatchAnimationsApp.swift */,
 				FF27CC962724301900872B25 /* RectanglePyramids.swift */,
+				FF27CCB2272477AC00872B25 /* CubeImage.swift */,
 				FF27CC982724301900872B25 /* NotificationController.swift */,
 				FF27CC9A2724301900872B25 /* NotificationView.swift */,
 				FF27CC9C2724301900872B25 /* ComplicationController.swift */,
@@ -269,6 +272,7 @@
 			files = (
 				FF27CC992724301900872B25 /* NotificationController.swift in Sources */,
 				FF27CC972724301900872B25 /* RectanglePyramids.swift in Sources */,
+				FF27CCB3272477AC00872B25 /* CubeImage.swift in Sources */,
 				FF27CC9D2724301900872B25 /* ComplicationController.swift in Sources */,
 				FF27CC952724301900872B25 /* WatchAnimationsApp.swift in Sources */,
 				FF27CC9B2724301900872B25 /* NotificationView.swift in Sources */,
