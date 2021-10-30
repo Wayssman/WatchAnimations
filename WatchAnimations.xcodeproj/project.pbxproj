@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FF06A58E272D5E07005D40F1 /* CircleJump.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF06A58D272D5E07005D40F1 /* CircleJump.swift */; };
 		FF27CC842724301600872B25 /* WatchAnimations WatchKit App.app in Embed Watch Content */ = {isa = PBXBuildFile; fileRef = FF27CC832724301600872B25 /* WatchAnimations WatchKit App.app */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
 		FF27CC892724301900872B25 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FF27CC882724301900872B25 /* Assets.xcassets */; };
 		FF27CC902724301900872B25 /* WatchAnimations WatchKit Extension.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = FF27CC8F2724301900872B25 /* WatchAnimations WatchKit Extension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
@@ -63,6 +64,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		FF06A58D272D5E07005D40F1 /* CircleJump.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleJump.swift; sourceTree = "<group>"; };
 		FF27CC7F2724301500872B25 /* WatchAnimations.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WatchAnimations.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FF27CC832724301600872B25 /* WatchAnimations WatchKit App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "WatchAnimations WatchKit App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		FF27CC882724301900872B25 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -123,6 +125,7 @@
 			isa = PBXGroup;
 			children = (
 				FF27CC942724301900872B25 /* WatchAnimationsApp.swift */,
+				FF06A58D272D5E07005D40F1 /* CircleJump.swift */,
 				FF27CC962724301900872B25 /* RectanglePyramids.swift */,
 				FF27CCB2272477AC00872B25 /* CubeImage.swift */,
 				FF27CC982724301900872B25 /* NotificationController.swift */,
@@ -272,6 +275,7 @@
 			files = (
 				FF27CC992724301900872B25 /* NotificationController.swift in Sources */,
 				FF27CC972724301900872B25 /* RectanglePyramids.swift in Sources */,
+				FF06A58E272D5E07005D40F1 /* CircleJump.swift in Sources */,
 				FF27CCB3272477AC00872B25 /* CubeImage.swift in Sources */,
 				FF27CC9D2724301900872B25 /* ComplicationController.swift in Sources */,
 				FF27CC952724301900872B25 /* WatchAnimationsApp.swift in Sources */,
